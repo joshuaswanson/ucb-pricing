@@ -40,7 +40,6 @@ ENV/
 Thumbs.db
 
 # Project specific
-untracked/
 *.pdf
 
 # Claude
