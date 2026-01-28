@@ -12,7 +12,7 @@ A platform (requester) wants to hire workers to complete tasks:
 
 **Key metrics:**
 - **Utility**: Number of workers hired
-- **Optimal Utility**: $\dfrac{B}{p^*}$ (maximum achievable with perfect knowledge of $p^*$)
+- **Optimal Utility**: $\dfrac{B}{p^{*}}$ (maximum achievable with perfect knowledge of $p^{*}$)
 - **Efficiency**: $\dfrac{\text{Utility}}{\text{Optimal Utility}}$
 - **Regret**: Optimal Utility $-$ Utility
 
