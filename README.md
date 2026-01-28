@@ -158,8 +158,7 @@ ucb-pricing/
 │   ├── bp_ucb.py          # Budget-Feasible Posted-Price UCB
 │   └── dynamic_bp_ucb.py  # Dynamic version with time slices
 ├── notebooks/             # Interactive demos and experiments
-├── assets/                # Visualizations and figures
-└── untracked/             # Original development files (not tracked)
+└── assets/                # Visualizations and figures
 ```
 
 ## References
