@@ -1,6 +1,6 @@
 # Budget-Feasible Pricing with UCB Algorithms
 
-Implementation of budget-feasible posted-price mechanisms using Upper Confidence Bound (UCB) algorithms for online learning. This project explores dynamic pricing strategies where a platform must hire workers (e.g., drivers) under budget constraints without knowing the distribution of worker costs.
+A research project supervised by Emisa Nategh from the Michael G. Foster School of Business, exploring dynamic pricing strategies where a platform must hire workers (e.g., drivers) under budget constraints without knowing the distribution of worker costs. This repo contains implementations of budget-feasible posted-price mechanisms using Upper Confidence Bound (UCB) algorithms for online learning.
 
 ## Problem Setting
 
