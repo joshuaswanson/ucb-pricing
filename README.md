@@ -76,7 +76,7 @@ Rate of selecting the optimal price increases over iterations.
 
 **Price Selection Distribution**
 
-The optimal price $p'$ (green) is overall chosen the most frequently.
+The optimal price $p'$ (green) is overall chosen most frequently.
 
 ![Price Selection](assets/price_selection.png)
 
